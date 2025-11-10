@@ -45,6 +45,9 @@ Model machine learning yang menggunakan metode - metode regresi seperti KNN, SVM
 ## Stacks
 Python, Pandas, numPy, Matplotlib, Seaborn, scikit-learn, sciPy, plotly-express, streamlit, Jupyter Notebook.
 
+## Deployment
+[![Hugging Face Spaces](https://img.shields.io/badge/Click%20Here-FFD43B?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/frsszn/indianflightspred)
+
 ## Reference
 https://indian-flights-price-prediction.streamlit.app/
 
